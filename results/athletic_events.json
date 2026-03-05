@@ -1,0 +1,64 @@
+{
+    "events": [
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "FloSports",
+            "date": "10 a.m. MT"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "Summit League Network",
+            "date": "1:30 p.m. MT"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCHC.tv",
+            "date": "7 p.m. MT"
+        },
+        {
+            "duTeam": "Men's Basketball",
+            "opponent": "Summit League Network",
+            "date": "7:30 p.m. MT"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "Summit League Network",
+            "date": "11 a.m. MT/1:30 p.m. MT"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCHC.tv",
+            "date": "6 p.m. MT"
+        },
+        {
+            "duTeam": "Men's Basketball",
+            "opponent": "CBS Sports Network",
+            "date": "6 p.m. MT/8:30 p.m. MT"
+        },
+        {
+            "duTeam": "Women's Lacrosse",
+            "opponent": "ESPN+",
+            "date": "10 a.m. MT"
+        },
+        {
+            "duTeam": "Women's Basketball",
+            "opponent": "CBS Sports Network",
+            "date": "2 p.m. MT"
+        },
+        {
+            "duTeam": "Men's Ice Hockey",
+            "opponent": "NCHC.tv",
+            "date": "6 p.m. MT"
+        },
+        {
+            "duTeam": "Men's Basketball",
+            "opponent": "CBS Sports Network",
+            "date": "7 p.m. MT"
+        },
+        {
+            "duTeam": "Women's Gymnastics",
+            "opponent": "Midco Sports Plus",
+            "date": "5:45 p.m. MT"
+        }
+    ]
+}
